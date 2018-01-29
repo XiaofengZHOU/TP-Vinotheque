@@ -1,0 +1,7 @@
+D:\Projets\NET\Vinothèque\Vinothèque\bin\Vinothèque.dll.config
+D:\Projets\NET\Vinothèque\Vinothèque\bin\Vinothèque.dll
+D:\Projets\NET\Vinothèque\Vinothèque\bin\Vinothèque.pdb
+D:\Projets\NET\Vinothèque\Vinothèque\obj\Debug\Vinothèque.csprojResolveAssemblyReference.cache
+D:\Projets\NET\Vinothèque\Vinothèque\obj\Debug\Vinothèque.csproj.CoreCompileInputs.cache
+D:\Projets\NET\Vinothèque\Vinothèque\obj\Debug\Vinothèque.dll
+D:\Projets\NET\Vinothèque\Vinothèque\obj\Debug\Vinothèque.pdb
